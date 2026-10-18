@@ -1,0 +1,28 @@
+# Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.suo
+*.sln.iml
+packages/
+.DS_Store
+.idea/
+*.swp
+
+# .NET
+*.dll
+*.exe
+*.pdb
+
+# Node (ha van Blazor)
+node_modules/
+dist/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
